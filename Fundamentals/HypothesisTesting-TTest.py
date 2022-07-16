@@ -17,7 +17,7 @@ Assumptions / Conditions
     - Population mean and standard deviations are finite
     - Standard deviation of population is known or can be estimated
     - Sample sizes are too small (i.e.  < 30)
-
+Source - https://colab.research.google.com/drive/1lWuS8AxULBBoId2GIfBKUeT1RSj3fFAJ?usp=sharing#scrollTo=C7WtUW_JiClG
 ############################
 Alternate options to Z-test
 ############################

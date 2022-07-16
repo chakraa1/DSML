@@ -25,7 +25,7 @@ Alternate options to Z-test
     - Approach # 4 : QQPlot approach - distribution1  != distribution2
     - Approach # 5 : KS test (uses gap between CDFs) - compared distribution
     
-
+Source - https://colab.research.google.com/drive/1lWuS8AxULBBoId2GIfBKUeT1RSj3fFAJ?usp=sharing#scrollTo=C7WtUW_JiClG
 ########################################
 Scenarios and type of Tail test (1-tail vs 2-tail) 
 ########################################
