@@ -69,3 +69,27 @@ Also calculated  p value (i.e. 0.014) is less than alpha (i.e. 0.05)
 Hence we can reject Null hypothesis
 
 """
+
+"""
+############################
+Example - Problem Statement
+############################
+You are testing two drugs as a remedy. Drug A is effective on 41 out of a sample of 195. 
+Drug B works on 351 out of 605 people. Are the two drugs comparable? Use 5% significance level for testing.
+H0: The proportions are the same.
+H1: The proportions are different.
+Perform the two-proportion Z test.
+
+"""
+
+
+import numpy as np
+from statsmodels.stats.proportion import proportions_ztest
+count = np.array([41, 351])
+nobs = np.array([195, 605])
+stat, pval = proportions_ztest(count, nobs)
+print('{0:0.3f}'.format(pval))
+
+# z test statistic=8.99, H0 is rejected.
+
+
