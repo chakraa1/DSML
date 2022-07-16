@@ -1,3 +1,23 @@
+"""
+###############################
+Hypothesis Testing Framework
+###############################
+
+STEP 1: Define H0 and Ha carefully based on what you want
+
+STEP 2: Define experiment and "sensible" (i.e. distribution of test under H0) test statistics
+
+STEP 3: Decide One sided / two-sided tail test
+
+STEP 4: Calculate p-value
+
+STEP 5: Define alfa (significance level)
+
+STEP 6: Compare p-value and alfa
+
+if p-value < alfa => Reject H0
+
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
