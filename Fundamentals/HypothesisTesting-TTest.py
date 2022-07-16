@@ -113,6 +113,7 @@ Assuming the firm's claim to be true, what is the probability that the mean sala
 
 """
 mu = 200
+
 m1 = 190
 m2 = 200
 s1 = 30
