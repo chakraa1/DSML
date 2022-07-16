@@ -103,34 +103,4 @@ Conclusion
 Failed to reject null hypothesis as p-value (0.81200) is more than alpha (.1 i.e. 90 % confidence level)
 """
 
-"""
-################################
-Example #3 - Problem Statement
-################################
-A software firm claims that its employees, on average, earn about 200€ per hour. 
-A sample of 16 employees is selected and it's found that they have a mean salary of 190€ with a sample standard deviation of 30€. 
-Assuming the firm's claim to be true, what is the probability that the mean salary of the employees will be no more than 190€? (Approximately)
-
-"""
-mu = 200
-
-m1 = 190
-m2 = 200
-s1 = 30
-s2 = 0
-n1 = 16
-n2 = 0
-
-Tobs = (m1 - m2)/ np.sqrt(((s1**2)/n1) + ((s2**2)/n2)) # Tobs = Test statistics
-print(Tobs) # 2.453
-p_value = 2 * stats.norm.cdf(-Tobs) # considering symmetry at both side
-print("p_value --> ", p_value)
-
-"""
-###########
-Conclusion 
-###########
-Failed to reject null hypothesis as p-value (0.XXXXX) is more than alpha (.1 i.e. 90 % confidence level)
-"""
-
 
