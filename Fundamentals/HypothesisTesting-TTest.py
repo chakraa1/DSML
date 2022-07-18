@@ -91,6 +91,9 @@ Test the trainer's claim with 90% confidence.
 wt_before=[85, 74, 63.5, 69.4, 71.6, 65,90,78]
 wt_after=[82, 71, 64, 65.2, 67.8, 64.7,95,77]
 
+A paired (aka. relative ) t-test is designed to compare the means of the same group or item under two separate scenarios. 
+An unpaired t-test compares the means of two independent or unrelated groups.
+
 """
 wt_before=[85, 74, 63.5, 69.4, 71.6, 65,90,78]
 wt_after=[82, 71, 64, 65.2, 67.8, 64.7,95,77]
