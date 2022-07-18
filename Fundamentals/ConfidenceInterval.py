@@ -3,7 +3,7 @@ def getConfidenceIntervalByFeature(data, feature_x_name, feature_x_value, featur
     # Configure bootstrap
     transactions = data[data[feature_x_name] == feature_x_value][feature_y]
 
-    sample_size = 10000
+    sample_size = 10000 # define sample size
     bootstrap_size = int(bootstrap_repetition_factor * len(transactions))
     bootstrapped_means = np.empty(sample_size)
     for i in range(sample_size):
