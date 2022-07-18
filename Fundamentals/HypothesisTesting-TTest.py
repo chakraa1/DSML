@@ -70,6 +70,7 @@ diff_means
 tstats = stats.ttest_ind(female_scores, male_scores)
 print(tstats)
 
+
 """
 ###########
 Conclusion 
@@ -94,7 +95,10 @@ wt_after=[82, 71, 64, 65.2, 67.8, 64.7,95,77]
 wt_before=[85, 74, 63.5, 69.4, 71.6, 65,90,78]
 wt_after=[82, 71, 64, 65.2, 67.8, 64.7,95,77]
 tstats_wt = stats.ttest_ind(wt_before, wt_after)
+tstats_rel = stats.ttest_rel(wt_before, wt_after)
+
 print("tstats_wt ==> ", tstats_wt)
+print("tstats_rel ==> ",tstats_rel)
 
 """
 ###########
