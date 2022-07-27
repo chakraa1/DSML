@@ -97,6 +97,7 @@ An unpaired t-test compares the means of two independent or unrelated groups.
 """
 wt_before=[85, 74, 63.5, 69.4, 71.6, 65,90,78]
 wt_after=[82, 71, 64, 65.2, 67.8, 64.7,95,77]
+
 tstats_wt = stats.ttest_ind(wt_before, wt_after)
 tstats_rel = stats.ttest_rel(wt_before, wt_after)
 
