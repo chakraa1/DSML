@@ -34,5 +34,5 @@ samp2 = np.array([12,11,9,14,4])
 samp3 = np.array([18,12,16,6,8])
 samp4 = np.array([13,9,12,16,15])
 
-print("Annova scratch t stats ", anova1(samp1, samp2, samp3, samp4))
-print("Annova scratch t stats ", f_oneway(samp1, samp2, samp3, samp4))
+print("ANOVA scratch t stats ", anova1(samp1, samp2, samp3, samp4))
+print("ANOVA f_oneway(scipy.stats) t stats ", f_oneway(samp1, samp2, samp3, samp4))
