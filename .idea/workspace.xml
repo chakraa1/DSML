@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da787113-d62e-4003-b376-926c2ba094b7" name="Changes" comment="Initial version">
-      <change afterPath="$PROJECT_DIR$/Fundamentals/AU-ROC-Implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/KNN-Measure-distance-Implementation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
       <recent name="C:\Users\hp\PycharmProjects\DSML\BusinessCase\Netflix" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AU-ROC-Implementation">
+  <component name="RunManager" selected="Python.KNN-Measure-distance-Implementation">
     <configuration name="AU-ROC-Implementation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Skewness" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="KNN-Measure-distance-Implementation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -166,7 +166,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/Skewness.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/KNN-Measure-distance-Implementation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.KNN-Measure-distance-Implementation" />
         <item itemvalue="Python.AU-ROC-Implementation" />
         <item itemvalue="Python.ClosedFormLinearRegression" />
         <item itemvalue="Python.AdjustedR-squared" />
         <item itemvalue="Python.Gradient-Descent-UpdateWeights" />
-        <item itemvalue="Python.Skewness" />
       </list>
     </recent_temporary>
   </component>
@@ -488,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668598074635</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Initial version">
+      <created>1668598598346</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1668598598346</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
