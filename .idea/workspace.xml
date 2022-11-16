@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da787113-d62e-4003-b376-926c2ba094b7" name="Changes" comment="Initial version">
-      <change beforePath="$PROJECT_DIR$/BusinessCase/Aurofit/Aerofit.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessCase/Aurofit/Aerofit.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessCase/Delhivery/Delhivery - Feature Engineering.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessCase/Delhivery/Delhivery - Feature Engineering.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessCase/Netflix/Netflix-Recommendation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessCase/Netflix/Netflix_Business_Case Study-Anindya.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessCase/Walmart/Walmart.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessCase/Walmart/Walmart.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessCase/Yulu/Yulu-Project-HypothesisTesting.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessCase/Yulu/Yulu-Project-HypothesisTesting.pdf" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/Gradient-Descent-UpdateWeights.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BusinessCase/Delhivery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BusinessCase/SQL-BigQuery" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -58,38 +51,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\PycharmProjects\DSML\BusinessCase\SQL-BigQuery" />
       <recent name="C:\Users\hp\PycharmProjects\DSML\BusinessCase\Delhivery" />
       <recent name="C:\Users\hp\PycharmProjects\DSML\Fundamentals" />
       <recent name="C:\Users\hp\PycharmProjects\DSML\BusinessCase\Zulu" />
       <recent name="C:\Users\hp\PycharmProjects\DSML\BusinessCase\Walmart" />
-      <recent name="C:\Users\hp\PycharmProjects\DSML\BusinessCase\Aurofit" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\PycharmProjects\DSML" />
       <recent name="C:\Users\hp\PycharmProjects\DSML\BusinessCase\Netflix" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="ANOVA-ProblemSolvingII" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\hp\PycharmProjects\DSML\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/ANOVA-ProblemSolvingII.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Gradient-Descent-UpdateWeights">
     <configuration name="ANOVA-TwoWayProblemSolving" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,6 +97,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/ANOVAScratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Gradient-Descent-UpdateWeights" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\hp\PycharmProjects\DSML\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/Gradient-Descent-UpdateWeights.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Gradient-Descent-UpdateWeights" />
         <item itemvalue="Python.Skewness" />
         <item itemvalue="Python.Kurtosis" />
         <item itemvalue="Python.ANOVA-TwoWayProblemSolving" />
         <item itemvalue="Python.ANOVAScratch" />
-        <item itemvalue="Python.ANOVA-ProblemSolvingII" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +404,35 @@
       <option name="project" value="LOCAL" />
       <updated>1661278103110</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Initial version">
+      <created>1668589546309</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1668589546309</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Initial version">
+      <created>1668589689911</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1668589689911</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Initial version">
+      <created>1668590206401</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1668590206401</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Initial version">
+      <created>1668590289670</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1668590289670</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
